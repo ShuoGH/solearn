@@ -1,1 +1,1 @@
-# solearn
+# sololearn
